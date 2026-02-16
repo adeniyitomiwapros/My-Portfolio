@@ -40,6 +40,11 @@ body {
   z-index: 100;
 }
 
+.navbar h1 a{
+  text-decoration: none;
+  color: #10B981;
+}
+
 .logo {
   color: var(--header-color);
   font-weight: 600;
